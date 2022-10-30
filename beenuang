@@ -1,8 +1,27 @@
-{
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
      "Categories": [
     {
-      "category": "Cikokok Hari Raya",
-      "image_link": "https://archive.org/download/frame_202210/idul.webp"
+      "category": "Hari Raya",
+      "image_link": "frame/idul.webp"
 
     },
     {
@@ -19,20 +38,15 @@
       "category": "Lainnya",
       "image_link": "frame/ribut.webp"
 
-    },
-       {
-         "category": "Lainnya",
-         "image_link": "frame/ribut.webp"
-
-       }
+    }
   ],
 
   "Item": [
     {
       "id": 1,
       "category": "Hari Nasional",
-      "title": "Hari ribut Nasional",
-      "image_link": "https://archive.org/download/frame_202210/ribut.webp"
+      "title": "Hari Batik Nasional",
+      "image_link": "frame/batik.webp"
     },
     {
       "id": 2,
@@ -87,12 +101,6 @@
       "category": "Lainnya",
       "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
-    },
-    {
-      "id": 11,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "baru/batik.webp"
     }
 
 
