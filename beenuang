@@ -45,7 +45,7 @@
     {
       "id": 1,
       "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
+      "title": "Hari Batiok Nasional",
       "image_link": "frame/batik.webp"
     },
     {
@@ -99,7 +99,7 @@
     {
       "id": 10,
       "category": "Lainnya",
-      "title": "Ayo Divaksin",
+      "title": "Ayojangan mau Divaksin",
       "image_link": "frame/vaksin.webp"
     }
 
