@@ -20,7 +20,7 @@
   ],
      "Categories": [
     {
-      "category": "cikokok Hari Raya",
+      "category": "Hari Raya",
       "image_link": "frame/idul.webp"
 
     },
@@ -37,6 +37,11 @@
     {
       "category": "Lainnya",
       "image_link": "frame/ribut.webp"
+
+    },
+    {
+      "category": "Hari Pahlawan",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
 
     }
   ],
@@ -99,8 +104,128 @@
     {
       "id": 10,
       "category": "Lainnya",
-      "title": "Ayojangan mau Divaksin",
+      "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
+    },
+    {
+      "id": 11,
+      "category": "Hari Pahlawan",
+      "title": "Hari Pahlawan ",
+      "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
     }
 
 
