@@ -52,6 +52,26 @@
       "category": "Hari Pahlawan",
       "image_link": "https://archive.org/download/frames-hp/Hari%20Pahlawan%201.png"
 
+    },
+    {
+      "category": "Hari Kesehatan Nasional",
+      "image_link": "https://archive.org/download/hkn2022/Hari%20Kesehatan%20Nasional%201.png"
+
+    },
+    {
+      "category": "Tahun Baru 2023",
+      "image_link": "https://archive.org/download/b8502969-b13f-461b-a6da-5151c78f7730_75eae8a8-865f-4fe4-8637-a4d37f432257/2b85d689-c513-4273-9cc4-ca353e19ef59.png"
+
+    },
+    {
+      "category": "Islami",
+      "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/1.png"
+
+    },
+    {
+      "category": "Nasional",
+      "image_link": "https://ia800204.us.archive.org/20/items/4_20230126_20230126/1.png"
+
     }
   ],
 
@@ -430,109 +450,109 @@
     },
     {
       "id": 63,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/1.png"
     },
     {
       "id": 64,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/2.png"
     },
     {
       "id": 65,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/3.png"
     },
     {
       "id": 66,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/4.jpeg"
     },
     {
       "id": 67,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/5.png"
     },
     {
       "id": 68,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/6.png"
     },
     {
       "id": 69,
-      "category": "Isra miraj",
+      "category": "Islami",
       "title": "Isra Miraj 1444 H",
       "image_link": "https://archive.org/download/1_20230218_20230218_1526/isra/7.png"
     },
     {
       "id": 70,
-      "category": "Kostrad",
+      "category": "Nasional",
       "title": "Kostrad 62",
       "image_link": "https://archive.org/download/4_20230306_202303/1.png"
     },
     {
       "id": 71,
-      "category": "Kostrad",
+      "category": "Nasional",
       "title": "Kostrad 62",
       "image_link": "https://archive.org/download/4_20230306_202303/2.png"
     },
     {
       "id": 72,
-      "category": "Kostrad",
+      "category": "Nasional",
       "title": "Kostrad 62",
       "image_link": "https://archive.org/download/4_20230306_202303/3.png"
     },
     {
       "id": 73,
-      "category": "Kostrad",
+      "category": "Nasional",
       "title": "Kostrad 62",
       "image_link": "https://archive.org/download/4_20230306_202303/4.png"
     },
     {
       "id": 74,
-      "category": "Kostrad",
+      "category": "Nasional",
       "title": "Kostrad 62",
       "image_link": "https://archive.org/download/4_20230306_202303/5.png"
     },
     {
       "id": 75,
-      "category": "Nisfu Sya'ban",
+      "category": "Islami",
       "title": "Nisfu Sya'ban 1444 H",
       "image_link": "https://archive.org/download/3_20230307_20230307_1504/1.png"
     },
     {
       "id": 76,
-      "category": "Nisfu Sya'ban",
+      "category": "Islami",
       "title": "Nisfu Sya'ban 1444 H",
       "image_link": "https://archive.org/download/3_20230307_20230307_1504/2.png"
     },
     {
       "id": 77,
-      "category": "Nisfu Sya'ban",
+      "category": "Islami",
       "title": "Nisfu Sya'ban 1444 H",
       "image_link": "https://archive.org/download/3_20230307_20230307_1504/3.png"
     },
     {
       "id": 78,
-      "category": "Nisfu Sya'ban",
+      "category": "Islami",
       "title": "Nisfu Sya'ban 1444 H",
       "image_link": "https://archive.org/download/3_20230307_20230307_1504/4.png"
     },
     {
       "id": 79,
-      "category": "Nisfu Sya'ban",
+      "category": "Islami",
       "title": "Nisfu Sya'ban 1444 H",
       "image_link": "https://archive.org/download/3_20230307_20230307_1504/5.jpeg"
     },
     {
       "id": 80,
-      "category": "Nisfu Sya'ban",
+      "category": "Islami",
       "title": "Nisfu Sya'ban 1444 H",
       "image_link": "https://archive.org/download/3_20230307_20230307_1504/6.jpeg"
     }
