@@ -72,6 +72,11 @@
       "category": "Nasional",
       "image_link": "https://ia800204.us.archive.org/20/items/4_20230126_20230126/1.png"
 
+    },
+    {
+      "category": "Internasional",
+      "image_link": "https://archive.org/download/2_20230510_20230510/1.png"
+
     }
   ],
 
@@ -753,6 +758,66 @@
       "category": "Hari Raya",
       "title": "Idul Fitri 2023",
       "image_link": "https://ia801602.us.archive.org/14/items/11_20230412_202304/20.png"
+    },
+    {
+      "id": 114,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/1.png"
+    },
+    {
+      "id": 115,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/2.png"
+    },
+    {
+      "id": 116,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/3.png"
+    },
+    {
+      "id": 117,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/4.png"
+    },
+    {
+      "id": 118,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/5.png"
+    },
+    {
+      "id": 119,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/6.png"
+    },
+    {
+      "id": 120,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/7.png"
+    },
+    {
+      "id": 121,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/8.png"
+    },
+    {
+      "id": 122,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/9.png"
+    },
+    {
+      "id": 123,
+      "category": "Internasional",
+      "title": "Hari Lupus Sedunia",
+      "image_link": "https://archive.org/download/2_20230510_20230510/10.png"
     }
 
 
