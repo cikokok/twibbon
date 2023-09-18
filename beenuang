@@ -1082,6 +1082,24 @@
       "category": "Nasional",
       "title": "HUT RI 78",
       "image_link": "https://archive.org/download/10_20230803/14.png"
+    },
+    {
+      "id": 167,
+      "category": "Nasional",
+      "title": "Hari PMI",
+      "image_link": "https://archive.org/download/pmi-1/PMI1.png"
+    },
+    {
+      "id": 168,
+      "category": "Nasional",
+      "title": "Hari PMI 2023",
+      "image_link": "https://archive.org/download/pmi-1/PMI2.png"
+    },
+    {
+      "id": 169,
+      "category": "Nasional",
+      "title": "Hari PMI",
+      "image_link": "https://archive.org/download/pmi-1/PMI3.png"
     }
 
   ]
