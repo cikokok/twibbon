@@ -1136,6 +1136,36 @@
       "category": "Internasional",
       "title": "peace",
       "image_link": "https://archive.org/download/peace3/peace6.png"
+    },
+    {
+      "id": 176,
+      "category": "Islami",
+      "title": "Maulid",
+      "image_link": "https://archive.org/download/m3_20230926/m1.png"
+    },
+    {
+      "id": 177,
+      "category": "Islami",
+      "title": "Maulid 2",
+      "image_link": "https://archive.org/download/m3_20230926/m2.png"
+    },
+    {
+      "id": 178,
+      "category": "Islami",
+      "title": "Maulid 3",
+      "image_link": "https://archive.org/download/m3_20230926/m3.png"
+    },
+    {
+      "id": 179,
+      "category": "Islami",
+      "title": "Maulid 4",
+      "image_link": "https://archive.org/download/m3_20230926/m4.png"
+    },
+    {
+      "id": 180,
+      "category": "Islami",
+      "title": "Maulid5",
+      "image_link": "https://archive.org/download/m3_20230926/m5.png"
     }
 
   ]
