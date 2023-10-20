@@ -1244,6 +1244,48 @@
       "category": "Nasional",
       "title": "Hut TNI 7",
       "image_link": "https://archive.org/download/hut-tni-1/Hut%20TNI%207.png"
+    },
+    {
+      "id": 194,
+      "category": "Nasional",
+      "title": "Hari Santri1",
+      "image_link": "https://archive.org/download/hs3_20231020/hs1.png"
+    },
+    {
+      "id": 195,
+      "category": "Nasional",
+      "title": "Hari Santri2",
+      "image_link": "https://archive.org/download/hs3_20231020/hs2.png"
+    },
+    {
+      "id": 196,
+      "category": "Nasional",
+      "title": "Hari Santri3",
+      "image_link": "https://archive.org/download/hs3_20231020/hs3.png"
+    },
+    {
+      "id": 197,
+      "category": "Nasional",
+      "title": "Hari Santri4",
+      "image_link": "https://archive.org/download/hs3_20231020/hs4.png"
+    },
+    {
+      "id": 198,
+      "category": "Nasional",
+      "title": "Hari Santri5",
+      "image_link": "https://archive.org/download/hs3_20231020/hs5.png"
+    },
+    {
+      "id": 199,
+      "category": "Nasional",
+      "title": "Hari Santri6",
+      "image_link": "https://archive.org/download/hs3_20231020/hs6.png"
+    },
+    {
+      "id": 200,
+      "category": "Nasional",
+      "title": "Hari Santri7",
+      "image_link": "https://archive.org/download/hs3_20231020/hs7.png"
     }
 
   ]
