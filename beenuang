@@ -1648,10 +1648,40 @@
       "image_link": "https://archive.org/download/10_20231229/10.png"
     },
     {
-      "id": 25260,
+      "id": 260,
       "category": "Nasional",
       "title": "Tahun Baru 2024 11",
       "image_link": "https://archive.org/download/10_20231229/11.png"
+    },
+    {
+      "id": 261,
+      "category": "Nasional",
+      "title": "Hari Amal Bakti 1",
+      "image_link": "https://archive.org/download/3_20240102_20240102_1452/1.png"
+    },
+    {
+      "id": 262,
+      "category": "Nasional",
+      "title": "Hari Amal Bakti 2",
+      "image_link": "https://archive.org/download/3_20240102_20240102_1452/2.png"
+    },
+    {
+      "id": 263,
+      "category": "Nasional",
+      "title": "Hari Amal Bakti 3",
+      "image_link": "https://archive.org/download/3_20240102_20240102_1452/3.png"
+    },
+    {
+      "id": 264,
+      "category": "Nasional",
+      "title": "Hari Amal Bakti 4",
+      "image_link": "https://archive.org/download/3_20240102_20240102_1452/4.png"
+    },
+    {
+      "id": 265,
+      "category": "Nasional",
+      "title": "Hari Amal Bakti 5",
+      "image_link": "https://archive.org/download/3_20240102_20240102_1452/5.png"
     }
 
 
